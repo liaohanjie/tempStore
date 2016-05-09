@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application ver="10" unuse0="1" unuse1="10" type="4">
+	<actions>
+		<action path="com.ks.action.world" type="2"/>
+		<action path="com.ks.logic.action" type="4"/>
+	</actions>
+</application>

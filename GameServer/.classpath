@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Engine"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/comm"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/jedis-2.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.21.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.5.11.Final.jar" sourcepath="/Engine/lib/netty-3.10.5.Final-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.7.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application ver="10" unuse0="1" unuse1="10" type="2">
+	<actions>
+		<action path="com.ks.action.game" type="1"/>
+		<action path="com.ks.wrold.action" type="2"/>
+		<action path="com.ks.action.logic" type="4"/>
+	</actions>
+	<tasks>
+		<task path="com.ks.wrold.task"/>
+	</tasks>
+	<jobs>
+		<job path="com.ks.wrold.job"/>
+	</jobs>
+</application>

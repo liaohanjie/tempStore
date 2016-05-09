@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application ver="10" unuse0="1" unuse1="10" type="1">
+	<handlers path="com.ks.game.handler"/>
+	<actions>
+		<action path="com.ks.game.action" type="1"/>
+		<action path="com.ks.action.logic" type="4"/>
+		<action path="com.ks.action.world" type="2"/>
+	</actions>
+	<jobs>
+		<job path="com.ks.game.job"/>
+	</jobs>
+	<tasks>
+		<task path="com.ks.game.task"/>
+	</tasks>
+	<schedulings>
+		<scheduling path="com.ks.game.schedule"/>
+	</schedulings>
+</application>
