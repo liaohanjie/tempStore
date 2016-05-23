@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/main/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.7.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="jettyLib/com.sun.el_1.0.0.v201004190952.jar"/>
+	<classpathentry kind="lib" path="jettyLib/ecj-3.6.jar"/>
+	<classpathentry kind="lib" path="jettyLib/javax.activation_1.1.0.v201005080500.jar"/>
+	<classpathentry kind="lib" path="jettyLib/javax.annotation_1.0.0.v20100513-0750.jar"/>
+	<classpathentry kind="lib" path="jettyLib/javax.el_2.1.0.v201004190952.jar"/>
+	<classpathentry kind="lib" path="jettyLib/javax.mail.glassfish_1.4.1.v201005082020.jar"/>
+	<classpathentry kind="lib" path="jettyLib/javax.servlet.jsp_2.1.0.v201004190952.jar"/>
+	<classpathentry kind="lib" path="jettyLib/javax.servlet.jsp.jstl_1.2.0.v201004190952.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-ajp-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-all-7.6.0.RC2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-annotations-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-client-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-continuation-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-deploy-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-http-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-io-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-jndi-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-plus-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-policy-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-rewrite-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-security-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-server-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-servlet-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-servlets-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-util-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-webapp-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/jetty-xml-7.6.0.RC2.jar"/>
+	<classpathentry kind="lib" path="jettyLib/org.apache.jasper.glassfish_2.1.0.v201110031002.jar"/>
+	<classpathentry kind="lib" path="jettyLib/org.apache.taglibs.standard.glassfish_1.2.0.v201004190952.jar"/>
+	<classpathentry kind="lib" path="jettyLib/org.objectweb.asm_3.1.0.v200803061910.jar"/>
+	<classpathentry kind="lib" path="jettyLib/servlet-api-2.5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Engine"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/comm"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/WebEngine"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application ver="10" unuse0="1" unuse1="10" type="6">
+	<actions>
+		<action path="com.ks.action.world" type="2"/>
+		<action path="com.ks.account.action" type="6"/>
+	</actions>
+	<tasks>
+		<task path="com.ks.account.task"/>
+	</tasks>
+</application>

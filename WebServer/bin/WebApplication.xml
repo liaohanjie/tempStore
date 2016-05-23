@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application ver="10" unuse0="1" unuse1="10" type="5">
+	<actions>
+		<action path="com.ks.action.world" type="2"/>
+		<action path="com.ks.action.account" type="6"/>
+	</actions>
+</application>
